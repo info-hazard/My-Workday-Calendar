@@ -8,9 +8,7 @@ No installation required, this application runs on your browser! Please referenc
 
 ## Usage
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+ ![alt text](./assets/images/screen.png)
 
 ## Credits
 Made with 
