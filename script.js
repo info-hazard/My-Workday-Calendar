@@ -9,7 +9,7 @@ $(document).ready(function () {
     var text = $(this).siblings(".description").val();
     var time = $(this).parent().attr("id");
 
-    localStorage.setItem(text, time);
+    localStorage.setItem(time, text);
   })
 
   function timeChecker() {
@@ -24,7 +24,7 @@ $(document).ready(function () {
         $(this).removeClass("present");
         $(this).addClass("past");
     }
-    else if (blockTime === currentTime) {
+    else if (blockTime == currentTime) {
         $(this).removeClass("past");
         $(this).removeClass("future");
         $(this).addClass("present");
