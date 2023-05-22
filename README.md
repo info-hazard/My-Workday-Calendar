@@ -7,7 +7,7 @@ This application was made for the purpose of helping people stay organized and k
 No installation required, this application runs on your browser! Please reference the next section for screenshots and a link to the application.
 
 ## Usage
-
+ click on this link to reach the application! https://info-hazard.github.io/My-Workday-Calendar/
  ![alt text](./assets/images/screen.png)
 
 ## Credits
